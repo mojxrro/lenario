@@ -3,4 +3,5 @@ FLEETS = {
     "IP1": {"miners": 198, "expected_phs": 301},
     "IP2": {"miners": 100, "expected_phs": 508},
     "BB1": {"miners": 420, "expected_phs": 473},
+    "IP3": {"miners": 50, "expected_phs": 200},
 }
